@@ -6,3 +6,8 @@
 /etc/salt/pki
 /etc/salt/minion_id
 /instance/
+/keyrings/live/pubring.gpg~
+/keyrings/live/pubring.kbx~
+/keyrings/live/secring.gpg
+/srv/salt/package/files/ssh/mosh.hosts
+/srv/salt/package/files/ssh/ssh.hosts

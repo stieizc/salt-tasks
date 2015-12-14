@@ -1,0 +1,2 @@
+srv/salt/package/files/ssh/mosh.hosts
+srv/salt/package/files/ssh/ssh.hosts

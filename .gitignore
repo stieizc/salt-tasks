@@ -1,0 +1,8 @@
+*.sw*
+*~
+*#
+
+/var
+/etc/salt/pki
+/etc/salt/minion_id
+/instance/

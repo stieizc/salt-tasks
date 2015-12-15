@@ -1,3 +1,4 @@
+# -*- mode: YAML -*-
 root_dir: .
 roster_file: instance/roster
 file_roots:

@@ -1,4 +1,4 @@
-{% from 'map.jinja' import user %}
+{% from 'map.jinja2' import user %}
 
 {% for conf in '.bashrc', '.bash_profile' %}
 {{ user.home}}/{{ conf }}:
